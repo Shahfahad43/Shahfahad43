@@ -1,32 +1,60 @@
-<h1 align="center">Hi 👋, I'm Shah Fahad</h1>
-<h3 align="center">Frontend developer | React & JavaScript specialist | Building performant, accessible UIs with clean code.</h3>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Website Development">
+# 👋 Hi, I'm Shah Fahad (Fahadi)
 
+💻 **Frontend Website Developer**  
+✨ Passionate about building modern, responsive, and user-friendly websites  
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahfahad43&label=Profile%20views&color=0e75b6&style=flat" alt="shahfahad43" /> </p>
+## 🚀 Tech Stack & Skills
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahfahad43" alt="shahfahad43" /></a> </p>
+---
 
-- 🌱 I’m currently learning **React Native**
+## 📂 Featured Projects
+- 🎬 **Netflix Clone** – Responsive clone using React + Tailwind  
+- 🎮 **Tic Tac Toe Game** – Simple fun game with JavaScript  
+- 💱 **Currency Converter** – Convert between currencies in real-time  
+- ✂️ **Photo Editor Website** – Edit photos online with basic tools  
 
-- 💬 Ask me about **HTML, CSS and JavaScript**
+➡️ Check out more projects in my [repositories](#)!
 
-- 📫 How to reach me **fahadlucky43boy@gmail.com**
+---
 
-- ⚡ Fun fact **You’re the only “you” on the entire internet — that’s pretty legendary. 🚀**
+## 🌱 Currently Exploring
+- Advanced **React.js** concepts  
+- Building **scalable front-end architectures**  
+- Crafting **beautiful UI/UX with TailwindCSS**  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shah fahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shah fahad" height="30" width="40" /></a>
-<a href="https://fb.com/shah fahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shah fahad" height="30" width="40" /></a>
+---
+
+## 🌐 Connect With Me
+🔗 [Portfolio Website](https://html-css-projects-df4w.vercel.app/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shah-fahad-344aaa285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+🔗 [Email](shahfahadamjidabad@gmail.com)   
+🔗 [Facebook](https://www.facebook.com/share/15gMH5rjtK/)   
+
+---
+
+## ⚡ Fun Fact
+I love creating websites that are not only functional but also **delightful to use** ✨  
+
+---
+
+## 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahfahad43&show_icons=true&theme=radical" alt="Fahadi's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahfahad43&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahfahad43&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahfahad43&show_icons=true&locale=en&layout=compact" alt="shahfahad43" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahfahad43&show_icons=true&locale=en" alt="shahfahad43" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahfahad43&" alt="shahfahad43" /></p>
+⭐️ From [Shah Fahad (Fahadi)](https://github.com/Shahfahad43)
