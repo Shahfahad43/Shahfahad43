@@ -21,7 +21,7 @@
 - 💱 **Currency Converter** – Convert between currencies in real-time  
 - ✂️ **Photo Editor Website** – Edit photos online with basic tools  
 
-➡️ Check out more projects in my [repositories](#)!
+➡️ Check out more projects in my [repositories](https://github.com/Shahfahad43?tab=repositories)!
 
 ---
 
