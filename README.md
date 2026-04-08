@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # ⚡ Shah Fahad (Fahadi)
@@ -87,11 +87,7 @@ I operate at the intersection of **logic, design, and usability**.
 
 ## 🧭 Developer Philosophy
 
-```
-
 Understand deeply → Build intentionally → Refine continuously
-
-```
 
 - Code should explain itself  
 - UI should guide the user without friction  
@@ -145,4 +141,4 @@ Understand deeply → Build intentionally → Refine continuously
 ### ⚡ _Consistency builds mastery_
 
 </div>
-```
+
